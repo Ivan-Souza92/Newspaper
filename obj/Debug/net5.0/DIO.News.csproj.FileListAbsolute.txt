@@ -1,0 +1,16 @@
+C:\Users\Ivan\Noticias\DIO\DIO.News\bin\Debug\net5.0\DIO.News.exe
+C:\Users\Ivan\Noticias\DIO\DIO.News\bin\Debug\net5.0\DIO.News.deps.json
+C:\Users\Ivan\Noticias\DIO\DIO.News\bin\Debug\net5.0\DIO.News.runtimeconfig.json
+C:\Users\Ivan\Noticias\DIO\DIO.News\bin\Debug\net5.0\DIO.News.runtimeconfig.dev.json
+C:\Users\Ivan\Noticias\DIO\DIO.News\bin\Debug\net5.0\DIO.News.dll
+C:\Users\Ivan\Noticias\DIO\DIO.News\bin\Debug\net5.0\ref\DIO.News.dll
+C:\Users\Ivan\Noticias\DIO\DIO.News\bin\Debug\net5.0\DIO.News.pdb
+C:\Users\Ivan\Noticias\DIO\DIO.News\obj\Debug\net5.0\DIO.News.csprojAssemblyReference.cache
+C:\Users\Ivan\Noticias\DIO\DIO.News\obj\Debug\net5.0\DIO.News.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Noticias\DIO\DIO.News\obj\Debug\net5.0\DIO.News.AssemblyInfoInputs.cache
+C:\Users\Ivan\Noticias\DIO\DIO.News\obj\Debug\net5.0\DIO.News.AssemblyInfo.cs
+C:\Users\Ivan\Noticias\DIO\DIO.News\obj\Debug\net5.0\DIO.News.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Noticias\DIO\DIO.News\obj\Debug\net5.0\DIO.News.dll
+C:\Users\Ivan\Noticias\DIO\DIO.News\obj\Debug\net5.0\ref\DIO.News.dll
+C:\Users\Ivan\Noticias\DIO\DIO.News\obj\Debug\net5.0\DIO.News.pdb
+C:\Users\Ivan\Noticias\DIO\DIO.News\obj\Debug\net5.0\DIO.News.genruntimeconfig.cache
